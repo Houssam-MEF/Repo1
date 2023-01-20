@@ -1,0 +1,52 @@
+li{
+    font-size: x-large;
+    font-weight: bold;
+    margin: 5px 20px;
+}
+label{
+    width: 200px;
+    text-align: left;
+    font-size: large;
+}
+nav{
+    display: inline-block;
+    border: 2px solid;
+    background-color: rgb(42, 130, 165);
+    padding: 0;
+    margin: 0;
+}
+h5{
+    display: inline-flex;
+    color: black;
+    /* width: 100%; */
+}
+
+h5:hover{
+    background-color: blue;
+    
+}
+.del{
+    background-color: rgb(237, 37, 37);
+    border: 1px solid;
+    border-radius: 5px;
+    vertical-align:super;
+}
+.del:hover{
+    background-color: red;
+}
+.val{
+    margin: 5px 5px;
+    height: 80%;
+}
+.val:focus, .val:hover{
+    background-color: rgb(210, 210, 216);
+}
+.add{
+    margin: 20px 0px;
+    width: 100%;
+    background-color: rgb(100, 198, 237);
+}
+.add:hover{
+    background-color: rgb(67, 151, 184);
+
+}
