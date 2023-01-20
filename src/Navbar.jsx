@@ -17,7 +17,6 @@ export default function Navbar() {
 
   return (
     <>
-    <h1>Exemple</h1>
     <br />
     <div>
       <nav>
